@@ -10,6 +10,6 @@
   "description": "",
   "dependencies": {
     "@fastify/under-pressure": "^8.5.1",
-    "fastify": "^4.13.0"
+    "fastify": "^4.28.1"
   }
 }
